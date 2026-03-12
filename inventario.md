@@ -1,3 +1,4 @@
 Processori
 Schede madri
 
+\nperiferiche
