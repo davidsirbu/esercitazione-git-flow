@@ -2,5 +2,6 @@ Elettronica Padovana
 Componenti:
 1. Processori
 2. Schede madri
-\nperiferiche
+periferiche:
+1. Mouse
 
