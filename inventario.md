@@ -4,4 +4,4 @@ Componenti:
 2. Schede madri
 periferiche:
 1. Mouse
-
+2. Tastiere
